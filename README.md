@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nageshnprasad
-- 👀 I’m interested in Material mechanics, damage mechanisms and transportation development.
+- 👀 I’m interested in Material mechanics, damage mechanisms and research and development in transportation solutions.
 - 🌱 I’m currently learning to be a PhD. in Mechanics and materials.
 - 💞️ I’m looking to collaborate on data processing, image analysis. 
 - 📫 How to reach me www.linkedin.com/in/nagesh-narasimha-prasad
